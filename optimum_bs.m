@@ -1,7 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%
-%Ibrahim TOSUN - 19014502
-%%%%%%%%%%%%%%%%%%%%%%%%%
-
 % Network Parameters
 numNodes = 75; % Number of nodes in the network
 networkSize = 25; % Size of the network (25x25 grid)
