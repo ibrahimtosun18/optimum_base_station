@@ -27,6 +27,4 @@ The simulation includes the following features:
 
 - MATLAB R2019b or later.
 
-## Author
 
-- Ibrahim TOSUN - 19014502
