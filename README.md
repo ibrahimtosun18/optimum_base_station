@@ -27,4 +27,6 @@ The simulation includes the following features:
 
 - MATLAB R2019b or later.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
